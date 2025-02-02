@@ -1,5 +1,5 @@
 # RoboFriends
-
+![RoboFriends](https://github.com/Cryptim/Robofriends/blob/f37ebb0512a3bcf9cd0014bf13b57e6dcfc42c7a/public/Robofriends.png)
 ## Overview
 RoboFriends is a React-based web application that displays a list of robot friends with a dynamic search functionality. It fetches user data from an external API and filters the results based on user input.
 
