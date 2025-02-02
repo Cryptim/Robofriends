@@ -1,0 +1,11 @@
+.searchBox{
+    padding: 8px;
+
+}
+.searchInput{
+    padding: 10px;
+    background-color: #0ccac4;
+    background: lightgreen;
+    border-radius: 8px;
+    color: #0ccac4;
+}

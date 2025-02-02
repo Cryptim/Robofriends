@@ -1,0 +1,18 @@
+.card{
+    background-color: lightgreen;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 3px;
+    border-width: 2px;
+    transition: transform 0.2s ease-in-out;
+    display: inline-block;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+/* Hover effect */
+.card:hover {
+    transition: transform 0.2s ease-in;
+    transform: scale(1.03); /* Slight zoom-in */
+    background-color: lightseagreen; /* Change color on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Stronger shadow */
+}
